@@ -6,7 +6,7 @@ This Sentiment bot that uses Reddit's API to determine if a given subreddit is m
 I wanted to teach myself machine learning and am also new to python as well. So this is a little project to sharpen my skills.
 The code itself isn't very efficient, I was just trying to get it to work.
 This was a really fun project and I plan to update it in the future. 
-Things I want to add in the future would be...
+### Things I want to add in the future would be...
 - Using the data from the sentiment bot to train my own model of machine learning.
 - Clean up the code and make it more efficient
 - Make it more dynamic in the sense of using data from different apis
